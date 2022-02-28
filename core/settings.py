@@ -77,7 +77,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3')
         # 'NAME':  'django-auth',
         # 'USER' : 'root',
-        # 'PASSWORD': 'Waigames12',
+        # 'PASSWORD': '###',
         # 'HOST': 'localhost',
         # 'PORT': 3306
     }
